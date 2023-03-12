@@ -38,7 +38,7 @@ public class _2z_2 {
     public static void main(String[] args) throws IOException{
         // 1 variant schitivania
 
-        // String path = "text_ k_z2.txt";
+        // String path = "text_k_z2.txt";
         // File file = new File(path);
         // // String str;
         // Scanner input_ = new Scanner(file);
@@ -73,7 +73,7 @@ public class _2z_2 {
         // br.close();
 
         // 3 вариант
-        String filePath = "text_ k_z2.txt";
+        String filePath = "text_k_z2.txt";
  
         String content = "";
         try {
